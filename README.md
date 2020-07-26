@@ -1,0 +1,1 @@
+# 1D_ising_model
